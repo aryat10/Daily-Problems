@@ -11,7 +11,7 @@ int main() {
 	while(tc--)
 	{
 	int n;
-	cin>>n;
+	cin>>n;            // mm
 	cpp_int count = 1;
 	for(int i = 1; i<=n; i++)
 	{
